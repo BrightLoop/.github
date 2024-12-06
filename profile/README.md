@@ -1,6 +1,6 @@
 ---
 
-# 🌟 Bright Loop - Empowering Developers, One Loop at a Time! 🌟
+# 🌟Bright Loop - Empowering Developers, One Loop at a Time!🌟
 
 Welcome to **Bright Loop**, an open-source developer community dedicated to fostering innovation, collaboration, and growth in the software development world. Whether you're a seasoned coder or just starting your journey, Bright Loop offers a platform to explore, learn, and make an impact through open-source projects.
 
